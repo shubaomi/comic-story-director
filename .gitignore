@@ -1,0 +1,11 @@
+# Personal creative projects and reference images are not public package content.
+/works/
+/output/
+/tmp/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

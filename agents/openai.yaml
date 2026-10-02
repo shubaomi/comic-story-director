@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫画故事导演"
+  short_description: "共同打磨完整故事与分镜，经用户分阶段确认后生成一致的连续漫画"
+  default_prompt: "请使用 $comic-story-director 与我打磨一个完整漫画故事，先沟通方向与剧本，待我确认后再生成图片。"
