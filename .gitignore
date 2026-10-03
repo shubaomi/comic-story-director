@@ -1,5 +1,6 @@
 # Personal creative projects and reference images are not public package content.
 /works/
+/.local/
 /output/
 /tmp/
 .env
