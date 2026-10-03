@@ -18,11 +18,11 @@
 
 ## 从想法到漫画
 
-1. 沟通读者、题材、情绪、篇幅、创作模式和内容边界，选择故事方向。
-2. 打磨角色、场景、完整大纲和结局，再写全篇分镜与对白。
-3. 确认文字视觉方案和本次出图范围，制作并审核角色/场景设定图。
-4. 制作试画，用户确认后逐页生成约定批次，检查并修复问题。
-5. 全篇检查缺页、错字、剧情、实体与场景连续性，用户验收后交付页图及文档。
+**W1创作定位 → W2故事定案 → W3完整剧本 → W4视觉方案 → W5设定图 → W6试画 → W7全篇制作 → W8验收交付。**
+
+[标准流程](references/workflow.md) 定义每阶段的交付物、助手/用户分工、通过条件和返回修改的方式。作品的project-state记录当前进度，助手先做全量检查；用户默认看一张[简版审阅卡](assets/templates/decision-card.md)：含结局摘要、推荐意见、代表片段或实际图片，以及最多3项决定。全文保留供备查，不要求逐格阅读。
+
+可以直接说“按我的取向代审”“给我当前进度”“只展示本轮需要决定的事”。对话用于作决定，版本和批准落在文件中；这是文档执行流程，尚无自动程序强制推进或拦截能力。代审不等于替用户批准，图像身份与效果仍需展示实际图片。
 
 “确认制作这个 Skill”和“确认故事大纲”均不自动授权绘图。可以一次批准明确列出的多个已展示产物；无需背诵特定确认口令。
 
@@ -40,6 +40,7 @@
 |---|---|
 | [SKILL.md](SKILL.md) | 技能入口和阶段路由 |
 | [DESIGN.md](DESIGN.md) | 本版已确认范围、边界和需求编号 |
+| [references/workflow.md](references/workflow.md) | 八阶段流程、分工和简版审阅 |
 | [references/approval-and-state.md](references/approval-and-state.md) | 批准、变更失效和恢复 |
 | [references/story-development.md](references/story-development.md) | 原创与续写故事编辑 |
 | [references/visual-generation.md](references/visual-generation.md) | 视觉方案、参考图、工具与生成流程 |
